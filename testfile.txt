@@ -14,7 +14,7 @@ An ordinary sentence
 An ordinary sentence
 An ordinary sentence
 An ordinary sentence
-Potentially conflicting sentence
+Potentially conflicting sentence (stable)
 An ordinary sentence
 An ordinary sentence
 An ordinary sentence
