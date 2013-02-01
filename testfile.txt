@@ -14,7 +14,7 @@ An ordinary sentence
 An ordinary sentence
 An ordinary sentence
 An ordinary sentence
-Definitely conflicting sentence with future cherry-pick from stable
+Definitely conflicting sentence with future merge from stable
 An ordinary sentence
 An ordinary sentence
 An ordinary sentence
