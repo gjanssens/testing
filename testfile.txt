@@ -19,6 +19,9 @@ An ordinary sentence
 An ordinary sentence
 An ordinary sentence
 An ordinary sentence
+Oops, a change that was made on the wrong branch by accident.
+Let's cherry-pick it to the correct one and hope we can save
+git's history by a subsequent dummy merge.
 An ordinary sentence
 An ordinary sentence
 An ordinary sentence
